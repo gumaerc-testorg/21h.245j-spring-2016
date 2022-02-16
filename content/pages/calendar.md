@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: dc9ef76d-cb2f-e0e0-fde7-9fd3b5315edd
 ---
@@ -43,7 +45,7 @@ Autocracy in Russia & the Revolution of 1905
 
 ### Discussion Topics
 
-We will discuss the Fitzpatrick reading: What may have been the advantages and disadvantages of autocracy as a form of government (think especially about Pobedonostsev and Nicholas II's Manifesto)? What role did serfdom play in upholding autocracy? What were some of the contradictions facing Russia at the end of the 19th century? Who were the intelligentsia? Why did so many of them become convinced that the only solution to Russia's ills was revolution? Why were Russians of all political views ambivalent about capitalism and why was industrialization a difficult project? What were some of the different tactics revolutionaries tried? Why might 1905 have been an important "dress rehearsal" for the revolutions of 1917? What strains did it show in Tsarism?
+We will discuss the Fitzpatrick reading: What may have been the advantages and disadvantages of autocracy as a form of government (think especially about Pobedonostsev and Nicholas II's Manifesto)? What role did serfdom play in upholding autocracy? What were some of the contradictions facing Russia at the end of the 19{{< sup "th" >}} century? Who were the intelligentsia? Why did so many of them become convinced that the only solution to Russia's ills was revolution? Why were Russians of all political views ambivalent about capitalism and why was industrialization a difficult project? What were some of the different tactics revolutionaries tried? Why might 1905 have been an important "dress rehearsal" for the revolutions of 1917? What strains did it show in Tsarism?
 
 
 {{< tdclose >}}

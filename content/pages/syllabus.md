@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3688102d-eecb-2478-221b-20477215ab54
 ---
@@ -19,7 +21,7 @@ Course Description
 
 As Russian President Vladimir Putin once said, "Whoever does not miss the Soviet Union has no heart. Whoever wants it back has no brain." But what was the Soviet Union? How did it develop out of Imperial Russia? What happened in the Russian Revolution? What were the various efforts at reform, sometimes moderate (the New Economic Policy), sometimes violent (the purges of the 1930s)? How did the country deal with WWI and WWII? How did it deal with nationalities? What led to the rapid transformation under Gorbachev and the breakup of the USSR in 1991? How has the country continued to evolve under Yeltsin and Putin?
 
-This course is a [CI-H](http://web.mit.edu/commreq/cih.html) class (category S). Accordingly, students will write three papers over the course of the semester: 1st paper (4–5 pages) due during **Session 6**; rewrite due during **Session 10**; 2nd paper (3–5 pages), due during **Session 16**; and 3rd paper (15 pages), due during **Session 21**. You will also have a short written outline due on the Putin and symbolic politics due during **Session 25** (2 pages).
+This course is a [CI-H](http://web.mit.edu/commreq/cih.html) class (category S). Accordingly, students will write three papers over the course of the semester: 1{{< sup "st" >}} paper (4–5 pages) due during **Session 6**; rewrite due during **Session 10**; 2{{< sup "nd" >}} paper (3–5 pages), due during **Session 16**; and 3{{< sup "rd" >}} paper (15 pages), due during **Session 21**. You will also have a short written outline due on the Putin and symbolic politics due during **Session 25** (2 pages).
 
 The class will be broken into roughly six subgroups (three persons each). In your subgroups you will be responsible for one area of Soviet (and later post-Soviet life) and will regularly post interesting articles you find relating to your area to the class website. These articles may also form the basis of your final paper.
 
