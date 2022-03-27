@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 32d860da-8220-78cc-0939-6f2d82330197
 resourcetype: Document
 title: '21H.245J Soviet and Post-Soviet Politics and Society - Paper 2: Final Paper
   Research Proposal'

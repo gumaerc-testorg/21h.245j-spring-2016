@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 37a0d85b-7088-6878-3914-0d23a4554d7d
 resourcetype: Document
 title: 21H.245J Soviet and Post-Soviet Politics and Society - 1917 Revolutions
 uid: fa3b74bb-8cf8-c301-fce2-35733c6351bb

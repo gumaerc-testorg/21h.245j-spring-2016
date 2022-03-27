@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 37a0d85b-7088-6878-3914-0d23a4554d7d
 resourcetype: Document
 title: 21H.245J Soviet and Post-Soviet Politics and Society - Great Terror
 uid: d5f43c23-519a-2047-31e5-fff01c4697f3

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 37a0d85b-7088-6878-3914-0d23a4554d7d
 resourcetype: Document
 title: 21H.245J Soviet and Post-Soviet Politics and Society - Cold War USSR vs US
 uid: c1ab867c-5c5f-3d0f-034a-0e6d9d488220
