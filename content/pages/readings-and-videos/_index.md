@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Videos
 uid: 37a0d85b-7088-6878-3914-0d23a4554d7d
 ---

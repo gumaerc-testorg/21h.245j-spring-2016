@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings and Videos
+parent_type: CourseSection
 parent_uid: 37a0d85b-7088-6878-3914-0d23a4554d7d
 title: Additional Readings
 uid: e5699767-f92f-95f2-573d-67e034aa89e6
