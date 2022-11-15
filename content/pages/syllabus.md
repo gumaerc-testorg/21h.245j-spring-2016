@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes the course meeting times, a course description,
+  the course grading policy, the course's required texts,  and the course policy on
+  academic integrity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -98,7 +101,7 @@ Two-page outline on Putin's symbolic politics
 
 {{< tableclose >}}
 
-For more information on the class activities, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the class activities, see the {{% resource_link 32d860da-8220-78cc-0939-6f2d82330197 "Assignments" %}} section.
 
 Policy on Academic Integrity
 ----------------------------
@@ -120,4 +123,4 @@ Weinberg, Robert, and Laurie Bernstein. _Revolutionary Russia: A History in Docu
 
 Wood, Elizabeth A., William E. Pomeranz, et al. _Roots of Russia's War in Ukraine_. Woodrow Wilson Center Press / Columbia University Press, 2015. ISBN: 9780231704533. \[Preview with [Google Books](http://books.google.com/books?id=JyDyCgAAQBAJ&pg=PAfrontcover)\]
 
-For details on the course readings, see the table in the [Readings]({{< baseurl >}}/pages/readings-and-videos) section.
+For details on the course readings, see the table in the {{% resource_link 37a0d85b-7088-6878-3914-0d23a4554d7d "Readings" %}} section.
