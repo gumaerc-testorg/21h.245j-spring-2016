@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,22 +11,22 @@ uid: 32d860da-8220-78cc-0939-6f2d82330197
 _Paper 1_
 ---------
 
-[Paper 1 – The Revolutionary Year, 1917 (PDF)]({{< baseurl >}}/resources/mit21h_245js16_paper1)
+{{% resource_link 01f505a9-83d7-1571-b3e4-77e2f5815b49 "Paper 1 – The Revolutionary Year, 1917 (PDF)" %}}
 
 The Russian Revolutions of February and October 1917 have been extensively researched by a wide range of scholars so we now have elaborate chronologies of what happened on a day-by-day basis. Through concerted efforts scholars have collected primary documents in the form of letters, petitions, diary entries, and the like. Your mission will be to analyze documents listed in the prompt and write a 4–5 page paper.
 
 Paper 1 is due during Session 6, with its rewrite due during Session 10. This paper is graded as an average of the original and the rewrite, and is worth 20% of the final grade.
 
-[Advice on Writing for Paper 1 (PDF)]({{< baseurl >}}/resources/mit21h_245js16_paper1advic)
+{{% resource_link 57612fcd-30a5-4e96-fb7a-416d05213ade "Advice on Writing for Paper 1 (PDF)" %}}
 
 _Paper 2 and Paper 3_
 ---------------------
 
-[Paper 2 - Research Proposal (PDF)]({{< baseurl >}}/resources/mit21h_245js16_paper2) 
+{{% resource_link 72aa9d76-05a6-99da-1131-9dad712f1abe "Paper 2 - Research Proposal (PDF)" %}} 
 
 This paper (3–5 pages) is in preparation for your final paper (Paper 3).
 
-[Paper 3 – Current Events and Their Historical Roots (PDF)]({{< baseurl >}}/resources/mit21h_245js16_paper3)
+{{% resource_link 6efbfd9e-0a0a-243a-a6f9-b8b846bae15a "Paper 3 – Current Events and Their Historical Roots (PDF)" %}}
 
 Your mission is to pick a current event or phenomenon (1999 to the present) and show both its significance and what might be its historical roots in the Soviet history we have studied this semester in a 15 page paper.
 
