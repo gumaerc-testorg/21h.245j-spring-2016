@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This sections links for websites related to Russian and Soviet history
+  and current events
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course readings and videos.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Videos
@@ -123,7 +124,7 @@ Ruthchild, Rochelle Goldberg. "War, Revolution, Victory?" Chapter 7 in _Equality
 
 ### Recommended - Lecture Slides
 
-[The Revolutions of 1917 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit21h_245js16_revolutions)
+{{% resource_link fa3b74bb-8cf8-c301-fce2-35733c6351bb "The Revolutions of 1917 (PDF - 2.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +144,7 @@ The Dual Government
 
 [The First Provisional Government](http://community.dur.ac.uk/a.k.harrington/provgov1.html), Durham University.
 
-[Key Events in Pre-Revolutionary History (PDF)]({{< baseurl >}}/resources/mit21h_245js16_keyevents)
+{{% resource_link 1c1e1834-8b40-dca5-7589-3f00aaff3622 "Key Events in Pre-Revolutionary History (PDF)" %}}
 
 Wood, Elizabeth. "[Visualizing the 1897 Census in Pie Charts](http://russianhistoryblog.org/2016/05/visualizing-the-1897-census-in-pie-charts/)," May 26, 2016, russianhistoryblog.com.
 
@@ -533,7 +534,7 @@ Akhmatova, Anna. "[Requiem: 1935–1940](http://www.poetryloverspage.com/poets/a
 [Mapping the Gulag: Russian's Prison System From the 1930s to the Present](http://www.gulagmaps.org/),  
 Economic & Social Research Council.
 
-[The Great Terror: Possible Theories and Explanations (PDF)]({{< baseurl >}}/resources/mit21h_245js16_terror)
+{{% resource_link d5f43c23-519a-2047-31e5-fff01c4697f3 "The Great Terror: Possible Theories and Explanations (PDF)" %}}
 
 ### Video
 
@@ -683,7 +684,7 @@ The War as Myth and Symbol, and the Origins of the Cold War
 *   Document 7.10: On Deportations and 'Pacification.'
 *   Document 7.13: Kennan's 'Mr. X' Article.
 
-[The Cold War: Origins and Development (PDF)]({{< baseurl >}}/resources/mit21h_245js16_coldwar)
+{{% resource_link 928de3d5-fb41-8181-0704-4637a8ec2a42 "The Cold War: Origins and Development (PDF)" %}}
 
 Holloway, David. "'The Premises of Policy,' from _Stalin and the Bomb_." In _The Structure of Soviet History: Essays and Documents_. Edited by Ronald Grigor Suny. Oxford University Press, 2013. ISBN: 9780195340549.
 
@@ -742,9 +743,9 @@ The Khrushchev Era: Thaw at Home and Cold War Abroad
 
 \[SU\] Taubman, William. Chapter 10: The Khrushchev Period, 1953-1964.
 
-[Krushchev – Key Events (PDF)]({{< baseurl >}}/resources/mit21h_245js16_khrvkeyevnt)
+{{% resource_link ec6a8f78-b4ae-6c66-ddee-f6ecfe931bcb "Krushchev – Key Events (PDF)" %}}
 
-[Krushchev – Key Terms and Domestic Discussion Topics (PDF)]({{< baseurl >}}/resources/mit21h_245js16_khrvkeyterm)
+{{% resource_link a6144052-606e-17c8-6df3-a33a44b96b8d "Krushchev – Key Terms and Domestic Discussion Topics (PDF)" %}}
 
 ### Video
 
@@ -752,7 +753,7 @@ Max Power. "[Nixon vs. Khrushchev – The Kitchen Debate (1959)](https://www.you
 
 ### Lecture Slides
 
-[The Cold War: The USSR vs. the US (PDF - 1.8MB)]({{< baseurl >}}/resources/mit21h_245js16_cw_ussrvsus)
+{{% resource_link c1ab867c-5c5f-3d0f-034a-0e6d9d488220 "The Cold War: The USSR vs. the US (PDF - 1.8MB)" %}}
 
 ### Optional
 
@@ -841,7 +842,7 @@ Gorbachev's Political Revolution
 
 \[SU\] Brown, Archie. Chapter 12: The Gorbachev Era.
 
-[Key Developments in Nationality Policy (PDF)]({{< baseurl >}}/resources/mit21h_245js16_nationality)
+{{% resource_link 3bdae41d-a17c-e1ca-f277-543a03a312b3 "Key Developments in Nationality Policy (PDF)" %}}
 
 ### Optional
 
@@ -873,7 +874,7 @@ Holmes, Stephen. "What Russia Teaches Us Now: How Weak States Threaten Freedom."
 
 McFaul, Michael. "[Yeltsin's Legacy](http://www.jstor.org/stable/40260037)." _The Wilson Quarterly_ 24, no. 2 (2000): 42–47 and 50–58.
 
-[The Yeltsin Years, 1991–1999 (PDF)]({{< baseurl >}}/resources/mit21h_245js16_yeltsinyear)
+{{% resource_link b42f3f22-7487-5d9d-cb60-8bc5f481298e "The Yeltsin Years, 1991–1999 (PDF)" %}}
 
 ### Optional
 
@@ -907,7 +908,7 @@ Politics in the Yeltsin Years – How Russia Really Works
 
 \[L\] "Conclusion."
 
-Ledeneva, Alena. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cronies, Economic Crime and Capitalism in Putin's _Sistema._" (PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2346.2012.01062.x/pdf) _International Affairs_ 88, no. 1 (2012): 149-57.
+Ledeneva, Alena. ["Cronies, Economic Crime and Capitalism in Putin's _Sistema._" (PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2346.2012.01062.x/pdf) _International Affairs_ 88, no. 1 (2012): 149-57.
 
   ———. "Underground Financing in Russia." Chapter 4 in _Creating Social Trust in Post-Socialist Transition_. Edited by János Kornai, Bo Rothstein, and Susan Rose-Ackerman. Palgrave Macmillan, 2004. ISBN: 9781403964496.
 
@@ -927,7 +928,7 @@ Centralization Under Putin
 
 ### Readings
 
-Gorenburg, Dmitry, with H. H. Gaffney. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Great Promise Unfulfilled: How Russia Lost Its Way after Independence," (PDF)](https://csis-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/ruseur_wp_026.pdf) PONARS Working Paper No. 26, February 2006.
+Gorenburg, Dmitry, with H. H. Gaffney. ["Great Promise Unfulfilled: How Russia Lost Its Way after Independence," (PDF)](https://csis-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/ruseur_wp_026.pdf) PONARS Working Paper No. 26, February 2006.
 
 Maass, Peter. "[The Triumph of the Quiet Tycoon](http://www.nytimes.com/2004/08/01/magazine/the-triumph-of-the-quiet-tycoon.html)." _The New York Times Magazine_, August 1, 2004.
 
@@ -989,7 +990,7 @@ Whitmore, Brian, and Robert Coalson. "[Putin Crashes Medvedev's Party](http://ww
 
 Wood, Elizabeth A. "[Russia's Anti-Putin Protests are More Than Just a Generational Temper Tantrum](http://archive.boston.com/bostonglobe/editorial_opinion/blogs/the_angle/2012/01/putins_failures.html)," January 18, 2012, The Angle, boston.com.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Who Leads Russia?" (PDF)](https://www.files.ethz.ch/isn/57181/Audit_06_08_Wood.pdf) Audit of the Conventional Wisdom, MIT Center for International Studies, June 2008.
+———. ["Who Leads Russia?" (PDF)](https://www.files.ethz.ch/isn/57181/Audit_06_08_Wood.pdf) Audit of the Conventional Wisdom, MIT Center for International Studies, June 2008.
 
 
 {{< tdclose >}}
