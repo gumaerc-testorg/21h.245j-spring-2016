@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding 'Soviet and Post-Soviet
   Politics and Society, 1917 to the Present'.
-file: /courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/a6144052606e17c86df3a33a44b96b8d_MIT21H_245JS16_KhrvKeyTerm.pdf
+file: /ol-ocw-studio-app/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/a6144052606e17c86df3a33a44b96b8d_MIT21H_245JS16_KhrvKeyTerm.pdf
 file_size: 594059
 file_type: application/pdf
 learning_resource_types: []
