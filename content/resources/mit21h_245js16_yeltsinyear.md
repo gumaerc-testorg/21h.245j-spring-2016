@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding 'Soviet and Post-Soviet
   Politics and Society, 1917 to the Present'.
-file: /ol-ocw-studio-app/courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/b42f3f2274875d9dcb608bc5f481298e_MIT21H_245JS16_YeltsinYear.pdf
+file: /courses/21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016/b42f3f2274875d9dcb608bc5f481298e_MIT21H_245JS16_YeltsinYear.pdf
 file_size: 584643
 file_type: application/pdf
 learning_resource_types: []
