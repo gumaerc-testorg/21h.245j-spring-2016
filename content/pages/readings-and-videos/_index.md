@@ -85,7 +85,7 @@ World War I and the February Revolution
 
 \[F\] Chapter 2: 1917: The Revolutions of February and October, pp. 40–49.
 
-[The Deepening of the Russian Revolution: 1917](http://web.mit.edu/russia1917/), mit.edu.      
+[The Deepening of the Russian Revolution: 1917](http://web.mit.edu/russia1917/), mit.edu.       
 *(Browse under February and March)*
 
 Ruthchild, Rochelle Goldberg. "War, Revolution, Victory?" Chapter 7 in *Equality & Revolution: Women's Rights in the Russian Empire, 1905–1917*. University of Pittsburgh Press, 2010, pp. 211–32. ISBN: 9780822960669.
@@ -120,10 +120,10 @@ The Deepening of the Revolution, February-October, 1917
 
 \[S\] Chapter 2: 1917: From Revolution to Revolution.
 
-- Document 2.9: Lenin – The Bolsheviks Must Seize Power.      
+- Document 2.9: Lenin – The Bolsheviks Must Seize Power.       
       
     - *Why was Lenin so insistent on seizing power at that moment*?
-- Document 2.11: Lenin – 'Can the Bolsheviks Retain State Power?'      
+- Document 2.11: Lenin – 'Can the Bolsheviks Retain State Power?'       
       
     - *What did Lenin think it would take to retain state power? Note: Syndicates are trade unions*.
 - Document 2.15: 'To the Citizens of Russia.'
@@ -417,7 +417,7 @@ Akhmatova, Anna. "[Requiem: 1935–1940](http://www.poetryloverspage.com/poets/a
 
 [Gulag: Many Days, Many Lives](http://gulaghistory.org/), gulaghistory.org.
 
-[Mapping the Gulag: Russian's Prison System From the 1930s to the Present](http://www.gulagmaps.org/),      
+[Mapping the Gulag: Russian's Prison System From the 1930s to the Present](http://www.gulagmaps.org/),       
 Economic & Social Research Council.
 
 {{% resource_link "d5f43c23-519a-2047-31e5-fff01c4697f3" "The Great Terror: Possible Theories and Explanations (PDF)" %}}
@@ -473,7 +473,7 @@ World War II, aka The Great Patriotic War
 - Document 6.18: Stalin's Conduct of the War.
 - Document 6.19: The Unexpected War.
 - Document 6.20: Hitler's Conduct of the War.
-- Document 6.21: The 'Final Solution' in the USSR.      
+- Document 6.21: The 'Final Solution' in the USSR.       
     (*What did Stalin know and when did he know it? Pay close attention to the dates of the documents*)
 - Document 6.28: The War and the Orthodox Church.
 - Document 6.31: The Deportations.
@@ -677,8 +677,6 @@ Gorbachev's Political Revolution
 ### Optional
 
 Gooding, John. "[Perestroika as Revolution From Within: An Interpretation](http://www.jstor.org/stable/131245)." *The Russian Review* 51, no. 1 (1992): 36–57.
-
-Lukyanov, Fyodor. "[Last Will of the Soviet People](http://www.russialist.org/archives/russia-soviet-referendum-mar-560.php)," RIA Novosti, March 18, 2011, Johnson's Russia List.
 
 [Gerd Ludwig's 'Long Shadow of Chernobyl' Project](http://archive.boston.com/bigpicture/2012/02/gerd_ludwigs_long_shadow_of_ch.html), February 27, 2012, The Big Picture, boston.com.
 
