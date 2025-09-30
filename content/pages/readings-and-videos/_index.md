@@ -9,21 +9,21 @@ uid: 37a0d85b-7088-6878-3914-0d23a4554d7d
 ---
 \[D\] = Daly, Jonathan, and Leonid Trofimov, eds. *Russia in War and Revolution, 1914–1922: A Documentary History*. Hackett Publishing Company Inc., 2009. ISBN: 9780872209879.
 
-\[F\] = Fitzpatrick, Sheila. *The Russian Revolution*. 3rd edition. Oxford University Press, 2008. ISBN: 9780199237678. \[Preview with [Google Books](http://books.google.com/books?id=MkYVDAAAQBAJ&pg=PAfrontcover)\]
+\[F\] = Fitzpatrick, Sheila. *The Russian Revolution*. 3rd edition. Oxford University Press, 2008. ISBN: 9780199237678. \[Preview with {{% resource_link "b77245e5-e00b-44c8-ba45-b96f461478da" "Google Books" %}}\]
 
 \[J\] = Jenks, Andrew L. *The Cosmonaut Who Couldn't Stop Smiling: The Life and Legend of Yuri Gagarin*. Northern Illinois University Press, 2013. ISBN: 9780875806990.
 
-\[L\] = Ledeneva, Alena V. *How Russia Really Works: The Informal Purchases That Shaped Post-Soviet Politics and Business.* Cornell University Press, 2006. ISBN: 9780801473524. \[Preview with [Google Books](http://books.google.com/books?id=eGMdaMK16UkC&pg=PAfrontcover)\]
+\[L\] = Ledeneva, Alena V. *How Russia Really Works: The Informal Purchases That Shaped Post-Soviet Politics and Business.* Cornell University Press, 2006. ISBN: 9780801473524. \[Preview with {{% resource_link "badc7b71-a3d1-4f8d-89d8-b74d4e7abbf9" "Google Books" %}}\]
 
 \[S\] = Sakwa, Richard, ed. *The Rise and Fall of the Soviet Union, 1917–1991 (Routledge Sources in History)*. Routledge, 1999. ISBN: 9780415122900.
 
-\[SM\] = [Seventeen Moments in Soviet History: An On-Line Archive of Primary Sources](http://soviethistory.msu.edu/), Michigan State University.
+\[SM\] = {{% resource_link "4a17ead4-4100-4a16-9c74-ba76ba0b6e3a" "Seventeen Moments in Soviet History: An On-Line Archive of Primary Sources" %}}, Michigan State University.
 
 \[SU\] = Suny, Ronald Grigor, ed. *The Cambridge History of Russia, Volume 3: The Twentieth Century*. Cambridge University Press, 2015. ISBN: 9781107660991.
 
 \[W\] = Weinberg, Robert, and Laurie Bernstein. *Revolutionary Russia: A History in Documents (Pages from History)*. Oxford University Press, 2010. ISBN: 9780195337945.
 
-\[WO\] = Wood, Elizabeth A., William E. Pomeranz, et al. *Roots of Russia's War in Ukraine*. Woodrow Wilson Center Press / Columbia University Press, 2015. ISBN: 9780231704533. \[Preview with [Google Books](http://books.google.com/books?id=JyDyCgAAQBAJ&pg=PAfrontcover)\]
+\[WO\] = Wood, Elizabeth A., William E. Pomeranz, et al. *Roots of Russia's War in Ukraine*. Woodrow Wilson Center Press / Columbia University Press, 2015. ISBN: 9780231704533. \[Preview with {{% resource_link "38a629b6-003d-4e50-be21-e45c2e8b01c9" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -39,9 +39,9 @@ Introduction to the Course, and Russia Today
 
 ### Videos
 
-amandapanda3003's channel. "[History of Russia 1533 Present Map](https://www.youtube.com/watch?v=i5mpdffE0BY)." June 15, 2011. YouTube.
+amandapanda3003's channel. "{{% resource_link "8b1161e6-ded5-4029-a345-ed1ac3bc9502" "History of Russia 1533 Present Map" %}}." June 15, 2011. YouTube.
 
-To Discover Russia. "[300 Years of Russian History in 3 Minutes](https://www.youtube.com/watch?v=XEigTcunXIQ)." March 17, 2014. YouTube.
+To Discover Russia. "{{% resource_link "e0cd6bce-b082-4c5d-b670-3af64c5943f4" "300 Years of Russian History in 3 Minutes" %}}." March 17, 2014. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -85,12 +85,12 @@ World War I and the February Revolution
 
 \[F\] Chapter 2: 1917: The Revolutions of February and October, pp. 40–49.
 
-[The Deepening of the Russian Revolution: 1917](http://web.mit.edu/russia1917/), mit.edu.       
+{{% resource_link "eb2031b7-6894-4281-bd59-c524df81f442" "The Deepening of the Russian Revolution: 1917" %}}, mit.edu.       
 *(Browse under February and March)*
 
 Ruthchild, Rochelle Goldberg. "War, Revolution, Victory?" Chapter 7 in *Equality & Revolution: Women's Rights in the Russian Empire, 1905–1917*. University of Pittsburgh Press, 2010, pp. 211–32. ISBN: 9780822960669.
 
-[Timeline of the Russian Revolution of 1917](http://www.emersonkent.com/history/timelines/russian_revolution_timeline_1917.htm), emersonkent.com.
+{{% resource_link "2dde4087-ecab-45f6-a1d8-10985b1243c2" "Timeline of the Russian Revolution of 1917" %}}, emersonkent.com.
 
 ### Recommended - Lecture Slides
 
@@ -106,7 +106,7 @@ The Dual Government
 
 {{% resource_link "1c1e1834-8b40-dca5-7589-3f00aaff3622" "Key Events in Pre-Revolutionary History (PDF)" %}}
 
-Wood, Elizabeth. "[Visualizing the 1897 Census in Pie Charts](http://russianhistoryblog.org/2016/05/visualizing-the-1897-census-in-pie-charts/)," May 26, 2016, russianhistoryblog.com.
+Wood, Elizabeth. "{{% resource_link "eaf54ca2-732b-4fae-8de3-e8af68a02497" "Visualizing the 1897 Census in Pie Charts" %}}," May 26, 2016, russianhistoryblog.com.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -178,21 +178,21 @@ The New Government & its Critics
 
 *How does Lenin justify the creation of the Cheka? What did the new government decrees look like in practice? What was happening to living conditions in different parts of the country?*
 
-\[SM\] [Lenin Urges Immediate Seizure of Power: Vladimir Lenin, Letter to the Members of the Central Committee. November 6, 1917](http://soviethistory.msu.edu/1917-2/bolsheviks-seize-power/bolsheviks-seize-power-texts/lenin-urges-the-immediate-seizure-of-power/).
+\[SM\] {{% resource_link "f809c545-8c4e-4280-abc6-4bcfccc75a31" "Lenin Urges Immediate Seizure of Power: Vladimir Lenin, Letter to the Members of the Central Committee. November 6, 1917" %}}.
 
-\[SM\] [Declaration of the Military Revolutionary Committee: Military Revolutionary Committee, Declarations. November 6, 1917](http://soviethistory.msu.edu/1917-2/bolsheviks-seize-power/bolsheviks-seize-power-texts/declarations-of-the-military-revolutionary-committee/).
+\[SM\] {{% resource_link "b8dead61-baa1-4c21-b907-dad4b069d167" "Declaration of the Military Revolutionary Committee: Military Revolutionary Committee, Declarations. November 6, 1917" %}}.
 
-\[SM\] [Appeals of the Provisional Government: Provisional Government, Appeals to the People and to the Army. November 7, 1917](http://soviethistory.msu.edu/1917-2/bolsheviks-seize-power/bolsheviks-seize-power-texts/appeals-of-the-provisional-government/).
+\[SM\] {{% resource_link "0888e3e6-8031-46f6-b75a-38baca737afe" "Appeals of the Provisional Government: Provisional Government, Appeals to the People and to the Army. November 7, 1917" %}}.
 
-\[SM\] [The Revolution Has Triumphed: Petrograd Military Revolutionary Committee, Proclamation. November 7, 1917](http://soviethistory.msu.edu/1917-2/bolsheviks-seize-power/bolsheviks-seize-power-texts/the-revolution-has-triumphed/).
+\[SM\] {{% resource_link "a88b5bc2-0ad8-482c-9c30-564fb2a2ea62" "The Revolution Has Triumphed: Petrograd Military Revolutionary Committee, Proclamation. November 7, 1917" %}}.
 
-\[SM\] [Assumption of Soviet Power: Second All-Russian Congress of Soviets, Proclamation to the Workers, Soldiers and Peasants. November 7, 1917](http://soviethistory.msu.edu/1917-2/first-bolshevik-decrees/first-bolshevik-decrees-texts/assumption-of-soviet-power/).
+\[SM\] {{% resource_link "1179c797-c6b6-437a-8b94-962c0a66b5c6" "Assumption of Soviet Power: Second All-Russian Congress of Soviets, Proclamation to the Workers, Soldiers and Peasants. November 7, 1917" %}}.
 
-\[SM\] [Constituent Assembly Texts](http://soviethistory.msu.edu/1917-2/constituent-assembly/constituent-assembly-texts/).
+\[SM\] {{% resource_link "472c9848-600b-40b4-ac41-39fcc5a37db2" "Constituent Assembly Texts" %}}.
 
 ### Video
 
-Gora proletalgoaren diktadura! "[Lenin's Speech: 'How the Working People Can be Saved From…'](http://www.youtube.com/watch?v=X_EcpFLmUaU)." May 25, 2008. YouTube.
+Gora proletalgoaren diktadura! "{{% resource_link "b5c06d85-26b1-448b-bfa2-c34f4b25c576" "Lenin's Speech: 'How the Working People Can be Saved From…'" %}}." May 25, 2008. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -223,13 +223,13 @@ Trotsky, Leon. "The Train." Chapter 34 in *My Life: An Attempt at an Autobiograp
 
 ### Video
 
-[Russia and the USSR 1905–1941: Causes and Course of the Bloody Sunday Massacre in St. Petersburg](http://www.mrallsophistory.com/revision/category/other-history-topics/russia-and-the-ussr-1905-1941), Mr Allsop History.com.
+{{% resource_link "37056f93-3034-467a-a1e5-33d0a2f743dd" "Russia and the USSR 1905–1941: Causes and Course of the Bloody Sunday Massacre in St. Petersburg" %}}, Mr Allsop History.com.
 
 ### Reference
 
-[Historical Map of the Russian Civil War 1917–1920,](http://www.emersonkent.com/map_archive/russian_civil_war.htm) emersonkent.com.
+{{% resource_link "43471ecc-7c57-4713-b5e6-0f8d9331cf64" "Historical Map of the Russian Civil War 1917–1920," %}} emersonkent.com.
 
-[The Russian Civil War,](http://www.historylearningsite.co.uk/modern-world-history-1918-to-1980/russia-1900-to-1939/the-russian-civil-war/) historylearningsite.com.
+{{% resource_link "dfd58a85-c864-45f0-a602-d7893e75881a" "The Russian Civil War," %}} historylearningsite.com.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -270,7 +270,7 @@ The Shift to the New Economic Policy (NEP)
 
 Soviet and Post-Soviet Ambivalence about National Identity
 
-Guest speaker: Dr. Mark Pomar, former Director, [Radio Free Europe / Radio Liberty,](http://www.rferl.org/) Russian Service of the [Voice of America, the International Research & Exchanges Board,](http://www.voanews.com/) and [the U.S. Russia Foundation](http://www.usrf.us/).
+Guest speaker: Dr. Mark Pomar, former Director, {{% resource_link "d0d79d75-c211-4e8b-aed0-68b3e2b49cfe" "Radio Free Europe / Radio Liberty," %}} Russian Service of the {{% resource_link "15d4d045-35f8-4e97-a36c-3e5fa8f186aa" "Voice of America, the International Research & Exchanges Board," %}} and {{% resource_link "d791b53f-1da0-4af4-af70-aec96512a4ca" "the U.S. Russia Foundation" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -307,7 +307,7 @@ Guest speaker: Dr. Mark Pomar, former Director, [Radio Free Europe / Radio Liber
 
 The Politics and Economics of the NEP Years
 
-Guest speaker: Rochelle Goldberg Ruthchild, [Norwich University](http://www.norwich.edu/).
+Guest speaker: Rochelle Goldberg Ruthchild, {{% resource_link "95b28e79-9092-4bab-83a9-01e64075a41c" "Norwich University" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -377,11 +377,11 @@ Kotkin, Stephen. *Stalin: Volume 1: Paradoxes of Power, 1878-1928*. Penguin Book
 
 *A review of the above book*
 
-Rubenstein, Joshua. "[The Man of Steel](http://www.wsj.com/articles/book-review-stalin-by-stephen-kotkin-1416592803)," *Wall Street Journal*, November 21, 2014.
+Rubenstein, Joshua. "{{% resource_link "5e28ec0e-9489-416a-91ab-030d38ffd399" "The Man of Steel" %}}," *Wall Street Journal*, November 21, 2014.
 
 ### Video
 
-Dr. Alan Brown. "[Stalin: Inside the Terror](https://www.youtube.com/watch?v=SIzApqzlP3Q)." November 21, 2013. YouTube.
+Dr. Alan Brown. "{{% resource_link "3c47a0e8-38f3-4df8-a443-31ebb2545745" "Stalin: Inside the Terror" %}}." November 21, 2013. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -413,18 +413,18 @@ Life in the 1930s, Purge and Terror, the Gulag
 
 *pp. 206–7 contain a different translation and selection from Akhmatova's Requiem than that in \[S\].*
 
-Akhmatova, Anna. "[Requiem: 1935–1940](http://www.poetryloverspage.com/poets/akhmatova/requiem.html)," poetryloverspage.com.
+Akhmatova, Anna. "{{% resource_link "ec0ddc8f-76b9-4b09-87bd-1db3c400c02c" "Requiem: 1935–1940" %}}," poetryloverspage.com.
 
-[Gulag: Many Days, Many Lives](http://gulaghistory.org/), gulaghistory.org.
+{{% resource_link "fce9421c-7f11-4c67-8370-28418616367e" "Gulag: Many Days, Many Lives" %}}, gulaghistory.org.
 
-[Mapping the Gulag: Russian's Prison System From the 1930s to the Present](http://www.gulagmaps.org/),       
+{{% resource_link "1e8249f8-b720-493b-bf02-7d92a6e3de9b" "Mapping the Gulag: Russian's Prison System From the 1930s to the Present" %}},       
 Economic & Social Research Council.
 
 {{% resource_link "d5f43c23-519a-2047-31e5-fff01c4697f3" "The Great Terror: Possible Theories and Explanations (PDF)" %}}
 
 ### Video
 
-djamaluddin. "[Leon Trotsky Speech in Mexico About the Moscow Trials in the Late Thirties](https://www.youtube.com/watch?v=Xv--EVbmMys)." October 7, 2009. YouTube.
+djamaluddin. "{{% resource_link "5726c42f-f0d0-43a3-b160-c63ecc921925" "Leon Trotsky Speech in Mexico About the Moscow Trials in the Late Thirties" %}}." October 7, 2009. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -482,29 +482,29 @@ Barber, John, and Mark Harrison. "The Great Patriotic War." Chapter 2 in *The So
 
 ### Maps
 
-[Map of Russia](http://www.mapsofworld.com/russia/russia-outline-map.html), mapsofworld.com.
+{{% resource_link "1151f4af-c90e-4442-bac7-cff0003edaef" "Map of Russia" %}}, mapsofworld.com.
 
-[Map of Russia and Ukraine](http://www.mapsofworld.com/europe/russia-ukraine-map.html), mapsofworld.com
+{{% resource_link "28572a59-80e5-4652-8110-82bf28b1e2ab" "Map of Russia and Ukraine" %}}, mapsofworld.com
 
 ### Photographs of Imperial Russia
 
-[Russia in Color, A Century Ago](http://archive.boston.com/bigpicture/2010/08/russia_in_color_a_century_ago.html?s_campaign=8315), August 20, 2010, The Big Picture, boston.com.
+{{% resource_link "4135784b-148d-401f-b9b9-8e5ce629b059" "Russia in Color, A Century Ago" %}}, August 20, 2010, The Big Picture, boston.com.
 
 ### Optional
 
 Grossman, Vasily. "The Last Letter." In *Life and Fate: A Novel*. Translated from the Russian by Robert Chandler. HarperCollins Publishers, 1987. ISBN: 9780060913847.
 
-Jenks, Andrew. "[900 Days](http://russianhistoryblog.org/2012/10/900-days/)," October 5, 2012, russianhistoryblog.com.
+Jenks, Andrew. "{{% resource_link "1e23d697-8dee-4a68-b76a-306ca0bf65d1" "900 Days" %}}," October 5, 2012, russianhistoryblog.com.
 
 ### Video
 
-Deckert Distribution GmbH. "[900 Days Trailer](https://vimeo.com/35194673)." Vimeo.
+Deckert Distribution GmbH. "{{% resource_link "d0bed645-a4c1-498c-ba2b-be6978e06194" "900 Days Trailer" %}}." Vimeo.
 
-Soviet\_Union. "[Stalin Speech - November 7, 1941 \[English Subtitles\]](https://www.youtube.com/watch?v=8IGbjPqFFvA)." June 7, 2008. YouTube.
+Soviet\_Union. "{{% resource_link "7817b7c8-26d4-45d4-ad87-bf5bb28ddb55" "Stalin Speech - November 7, 1941 \[English Subtitles\]" %}}." June 7, 2008. YouTube.
 
-Nechlijudov. "[Shostakovich Plays a Fragment of his 7th Symphony (1941)](https://www.youtube.com/watch?v=nOKL_q-Ribs)." August 21, 2009. YouTube.
+Nechlijudov. "{{% resource_link "fafc6e6e-b998-4d9b-9975-f58b120988d2" "Shostakovich Plays a Fragment of his 7th Symphony (1941)" %}}." August 21, 2009. YouTube.
 
-bydloscum. "[Red Army Parade \[1945 – English\]](https://www.youtube.com/watch?v=aCWVM5bUZmE)." September 25, 2011. YouTube.
+bydloscum. "{{% resource_link "b542aeb2-4925-47c0-aa57-9dc0a999af59" "Red Army Parade \[1945 – English\]" %}}." September 25, 2011. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -542,17 +542,17 @@ The War as Myth and Symbol, and the Origins of the Cold War
 
 Holloway, David. "'The Premises of Policy,' from *Stalin and the Bomb*." In *The Structure of Soviet History: Essays and Documents*. Edited by Ronald Grigor Suny. Oxford University Press, 2013. ISBN: 9780195340549.
 
-Novikov, Nikolai. "The Novikov Telegram, Washington, September 27, 1946." In *Origins of the Cold War: The Novikov, Kennan, and Roberts 'Long Telegrams' of 1946*. Edited by Kenneth M. Jensen. United States Institute of Peace, 1993, pp. 3, 8, and 12–16. ISBN: 9781878379276. \[Preview with [Google Books](http://books.google.com/books?id=YZ9aFJf8NLwC&pg=PA3=onepage)\]
+Novikov, Nikolai. "The Novikov Telegram, Washington, September 27, 1946." In *Origins of the Cold War: The Novikov, Kennan, and Roberts 'Long Telegrams' of 1946*. Edited by Kenneth M. Jensen. United States Institute of Peace, 1993, pp. 3, 8, and 12–16. ISBN: 9781878379276. \[Preview with {{% resource_link "7d22fae8-66d1-41ce-8c93-5d0f813bf74d" "Google Books" %}}\]
 
 ### Possible Homework Videos
 
-Al Jazeera English. "[Witness - Silent Bombs: All for the Motherland - Part 1](https://www.youtube.com/watch?v=5aUVQiKVKJQ)." August 2, 2009. YouTube.
+Al Jazeera English. "{{% resource_link "c8df20df-71fd-49e2-98a9-3069d905bc82" "Witness - Silent Bombs: All for the Motherland - Part 1" %}}." August 2, 2009. YouTube.
 
-Al Jazeera English. "[Witness - Silent Bombs: All for the Motherland - Part 2](https://www.youtube.com/watch?v=GwCbuNJa2XI)." August 2, 2009. YouTube.
+Al Jazeera English. "{{% resource_link "432c1f38-f04c-48d8-bafc-1785bd746cd5" "Witness - Silent Bombs: All for the Motherland - Part 2" %}}." August 2, 2009. YouTube.
 
-Al Jazeera English. "[Witness - Silent Bombs: All for the Motherland - Part 3](https://www.youtube.com/watch?v=kzF7dzQuhpQ)." August 2, 2009. YouTube.
+Al Jazeera English. "{{% resource_link "b6fbd444-63f3-4456-9425-df6abf5c7a4c" "Witness - Silent Bombs: All for the Motherland - Part 3" %}}." August 2, 2009. YouTube.
 
-Al Jazeera English. "[Witness - Silent Bombs: All for the Motherland - Part 4](https://www.youtube.com/watch?v=U3hyqM-8xfM)." August 2, 2009. YouTube.
+Al Jazeera English. "{{% resource_link "e26dff40-2256-48bf-8f96-9f238f258c9e" "Witness - Silent Bombs: All for the Motherland - Part 4" %}}." August 2, 2009. YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -571,21 +571,21 @@ The Khrushchev Era: Thaw at Home and Cold War Abroad
 - Document 8.20: Suslov's Denunciation of Khrushchev.
 - Document 8.21: Communiqué of the Central Committee.
 
-\[SM\] [The Capital Meets Its Hero: Moscow Meets the First Cosmonaut (1961)](http://soviethistory.msu.edu/1961-2/first-cosmonaut/first-cosmonauts-texts/the-capital-meets-its-hero/).
+\[SM\] {{% resource_link "ea85b22b-cf7b-4fd9-ac5a-671294b4adc0" "The Capital Meets Its Hero: Moscow Meets the First Cosmonaut (1961)" %}}.
 
-\[SM\] [Ivan Rakhillo, A Familiar Smile (1961)](http://soviethistory.msu.edu/1961-2/first-cosmonaut/first-cosmonauts-texts/a-familiar-smile/).
+\[SM\] {{% resource_link "13e1074e-4270-410d-9051-c69af3b9226e" "Ivan Rakhillo, A Familiar Smile (1961)" %}}.
 
-\[SM\] [Khrushchev on Roswell Garst: Sergei Khrushchev. The Cold War through the Looking Glass](http://soviethistory.msu.edu/1961-2/corn-campaign/corn-campaign-texts/khrushchev-on-roswell-garst/).
+\[SM\] {{% resource_link "0692d9e7-160f-40ab-b229-ace6ab3dc766" "Khrushchev on Roswell Garst: Sergei Khrushchev. The Cold War through the Looking Glass" %}}.
 
-\[SM\] [Launch of Sputnik](http://soviethistory.msu.edu/1956-2/launch-of-sputnik/).
+\[SM\] {{% resource_link "12491fc4-9c03-4e07-a8c1-45fa4fd7d3a9" "Launch of Sputnik" %}}.
 
-\[SM\] [Prisoners Return](http://soviethistory.msu.edu/1954-2/prisoners-return/).
+\[SM\] {{% resource_link "14600a67-c72d-49f7-8e9e-ca482500cc5c" "Prisoners Return" %}}.
 
-\[SM\] [Prisoners Return Images](http://soviethistory.msu.edu/1954-2/prisoners-return/prisoners-return-images/).
+\[SM\] {{% resource_link "bdffa709-8b40-45aa-ae36-1634456704a5" "Prisoners Return Images" %}}.
 
-\[SM\] [Succession to Stalin](http://soviethistory.msu.edu/1954-2/succession-to-stalin/).
+\[SM\] {{% resource_link "1051bea1-dd2e-49c7-8db1-a8ea0a97dae2" "Succession to Stalin" %}}.
 
-\[SM\] [Virgin Lands Campaign](http://soviethistory.msu.edu/1954-2/virgin-lands-campaign/).
+\[SM\] {{% resource_link "843413cd-40f4-4db1-ab6e-ca78adbe654a" "Virgin Lands Campaign" %}}.
 
 \[SU\] Taubman, William. Chapter 10: The Khrushchev Period, 1953-1964.
 
@@ -595,7 +595,7 @@ The Khrushchev Era: Thaw at Home and Cold War Abroad
 
 ### Video
 
-Max Power. "[Nixon vs. Khrushchev – The Kitchen Debate (1959)](https://www.youtube.com/watch?v=-CvQOuNecy4)." February 9, 2010. YouTube.
+Max Power. "{{% resource_link "62aca057-061e-44a4-a57d-b16a0294037f" "Nixon vs. Khrushchev – The Kitchen Debate (1959)" %}}." February 9, 2010. YouTube.
 
 ### Lecture Slides
 
@@ -603,9 +603,9 @@ Max Power. "[Nixon vs. Khrushchev – The Kitchen Debate (1959)](https://www.you
 
 ### Optional
 
-Jones, Polly, ed. "Introduction: The Dilemmas of De-Stalinization." In *The Dilemmas of De-Stalinization: Negotiating Cultural and Social Change in the Khrushchev Era (BASEES / Routledge Series on Russian and East European Studies)*. Routledge, 2006. ISBN: 9780415545884. \[Preview with [Google Books](http://books.google.com/books?id=g7dYiQYo1nwC&pg=PA1=onepage)\]
+Jones, Polly, ed. "Introduction: The Dilemmas of De-Stalinization." In *The Dilemmas of De-Stalinization: Negotiating Cultural and Social Change in the Khrushchev Era (BASEES / Routledge Series on Russian and East European Studies)*. Routledge, 2006. ISBN: 9780415545884. \[Preview with {{% resource_link "d28a8ccf-c62f-48d6-822f-149359889fbf" "Google Books" %}}\]
 
-Nordlander, David. "[Khrushchev's Image in the Light of Glasnost and Perestroika](http://www.jstor.org/stable/131346)." *The Russian Review* 52, no. 2 (1993): 248–64.
+Nordlander, David. "{{% resource_link "0c9ab8b0-1f85-4605-a339-3af8936a5699" "Khrushchev's Image in the Light of Glasnost and Perestroika" %}}." *The Russian Review* 52, no. 2 (1993): 248–64.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -624,29 +624,29 @@ The Brezhnev Era
 - Document 9.24: Sakharov's Response to Solzhenitsyn.
 - Document 9.26: Amalrik, *Will the Soviet Union Survive until 1984*?
 
-\[SM\] [Crisis in Czechoslovakia](http://soviethistory.msu.edu/1968-2/crisis-in-czechoslovakia/).
+\[SM\] {{% resource_link "dcf96d97-a9f4-4a7a-8e13-21b9c209fb4b" "Crisis in Czechoslovakia" %}}.
 
-\[SM\] [The Dissident Movement](http://soviethistory.msu.edu/1973-2/the-dissident-movement/).
+\[SM\] {{% resource_link "a47a530f-d5ef-4825-90b3-261685488a1e" "The Dissident Movement" %}}.
 
-\[SM\] [The Double Burden](http://soviethistory.msu.edu/1968-2/the-double-burden/).
+\[SM\] {{% resource_link "3fe310c0-857e-484b-835f-291401529be0" "The Double Burden" %}}.
 
-\[SM\] [Natalia Baranskaia, A Week Like Any Other. 1969](http://soviethistory.msu.edu/1968-2/the-double-burden/the-double-burden-texts/a-week-like-any-other/).
+\[SM\] {{% resource_link "27212de6-6536-470e-b2bc-6abc177b8b39" "Natalia Baranskaia, A Week Like Any Other. 1969" %}}.
 
-\[SM\] [Red Square Demonstration: Chronicle of Current Events, Invasion of Czechoslovakia and the Red Square Demonstration, 1968](http://soviethistory.msu.edu/1968-2/crisis-in-czechoslovakia/crisis-in-czechoslovakia-texts/red-square-demonstration/).
+\[SM\] {{% resource_link "756bd0af-c260-4338-bd6d-a55fcacb142e" "Red Square Demonstration: Chronicle of Current Events, Invasion of Czechoslovakia and the Red Square Demonstration, 1968" %}}.
 
 \[SU\] Hanson, Stephen E. Chapter 11: The Brezhnev Era.
 
 *(Read only pp. 296-305. You may, of course, skim the rest, but it is not required.)*
 
-Jenks, Andrew. "[1979, The End of the Cold War and the Law of Unintended Consequences](http://russianhistoryblog.org/2015/11/1979-the-end-of-the-cold-war-and-the-law-of-unintended-consequences/)," November 24, 2015, russianhistoryblog.com.
+Jenks, Andrew. "{{% resource_link "1857d6f0-4e30-427b-a145-0b9b0252bc38" "1979, The End of the Cold War and the Law of Unintended Consequences" %}}," November 24, 2015, russianhistoryblog.com.
 
 ### Late Soviet Images
 
-Daily Mail Reporter. "[Poverty, Prostitutes, and the Long, Slow Death of the Soviet Union: Haunting Pictures Show Desperate Struggle to Survive in Last Days of USSR](http://www.dailymail.co.uk/news/article-2255693/Last-pictures-life-iron-curtain-collapse-USSR.html)," *The Daily Mail*, April 3, 2015.
+Daily Mail Reporter. "{{% resource_link "c67a479b-a867-417f-9dd6-b09183c934d0" "Poverty, Prostitutes, and the Long, Slow Death of the Soviet Union: Haunting Pictures Show Desperate Struggle to Survive in Last Days of USSR" %}}," *The Daily Mail*, April 3, 2015.
 
 ### Optional
 
-Baranskaya, Natalya. "[A Week Like Any Other Week](http://www.jstor.org/stable/25088483)." *Massachusetts Review* 15, no. 4 (1974): 657–703.
+Baranskaya, Natalya. "{{% resource_link "88a1f3fb-e97f-4c45-b2bc-552a6237c488" "A Week Like Any Other Week" %}}." *Massachusetts Review* 15, no. 4 (1974): 657–703.
 
 Colton, Timothy J. "Brezhnev's Ambiguous Legacy." Chapter 1 in *The Dilemma of Reform in the Soviet Union*. Council of Foreign Relations, 1986, pp. 6–7. ISBN: 9780876090138.
 
@@ -654,13 +654,13 @@ Colton, Timothy J. "Brezhnev's Ambiguous Legacy." Chapter 1 in *The Dilemma of R
 
 Dovlatov, Sergei. *The Compromise*. Translated from the Russian by Anne Frydman. Alfred A. Knopf, 1983, pp. 3–4 and 103–39. ISBN: 9780394528557.
 
-Engelhardt, Tom. "[Reliving the Soviet Experience in Afghanistan](http://historynewsnetwork.org/article/135092)," January 4, 2011, historynewsnetwork.org.
+Engelhardt, Tom. "{{% resource_link "539bfd7d-fd49-43af-a548-ba8d09512e7f" "Reliving the Soviet Experience in Afghanistan" %}}," January 4, 2011, historynewsnetwork.org.
 
-Goble, Paul A. "[State Duma Deputy: 'Multitude of Parallels' between Brezhnev and Putin](https://www.kyivpost.com/article/opinion/op-ed/state-duma-deputy-multitude-of-parallels-between-2-305948.html)," January 5, 2011, KyivPost.
+Goble, Paul A. "{{% resource_link "81183c1e-9553-4208-913a-e1fbe348fab8" "State Duma Deputy: 'Multitude of Parallels' between Brezhnev and Putin" %}}," January 5, 2011, KyivPost.
 
 Rubenstein, Joshua, and Dr. Alexander Gribanov, eds. "Introduction: Andrei Sakharov, the KGB, and the Legacy of Soviet Dissent." In *The KGB File of Andrei Sakharov*. Yale University Press, 2005. ISBN: 9780300106817.
 
-Yurchak, Alexei. "[The Cynical Reason of Late Socialism: Power, Pretense, and the *Anekdot*](http://www.academia.edu/393156/_The_Cynical_Reason_of_Late_Socialism_Power_Pretense_and_the_Anekdot_)." *Public Culture* 9 (1997): 161–88.
+Yurchak, Alexei. "{{% resource_link "d0f4145a-09b6-4331-846f-dd3f1756cd47" "The Cynical Reason of Late Socialism: Power, Pretense, and the *Anekdot*" %}}." *Public Culture* 9 (1997): 161–88.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -676,9 +676,9 @@ Gorbachev's Political Revolution
 
 ### Optional
 
-Gooding, John. "[Perestroika as Revolution From Within: An Interpretation](http://www.jstor.org/stable/131245)." *The Russian Review* 51, no. 1 (1992): 36–57.
+Gooding, John. "{{% resource_link "814eb637-1d64-4ad7-ae32-bf9f9b694b51" "Perestroika as Revolution From Within: An Interpretation" %}}." *The Russian Review* 51, no. 1 (1992): 36–57.
 
-[Gerd Ludwig's 'Long Shadow of Chernobyl' Project](http://archive.boston.com/bigpicture/2012/02/gerd_ludwigs_long_shadow_of_ch.html), February 27, 2012, The Big Picture, boston.com.
+{{% resource_link "f43837ff-ce0f-46d3-a73d-94b3f56129a7" "Gerd Ludwig's 'Long Shadow of Chernobyl' Project" %}}, February 27, 2012, The Big Picture, boston.com.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -688,17 +688,17 @@ The Yeltsin Years: Politics and Economics
 
 ### Readings
 
-Gessen, Masha. "[The Dying Russians](http://www.nybooks.com/daily/2014/09/02/dying-russians/)." *The New York Review of Books*, September 2, 2014.
+Gessen, Masha. "{{% resource_link "8c2ea3f2-bf9d-4eae-a36b-fb025a174cc2" "The Dying Russians" %}}." *The New York Review of Books*, September 2, 2014.
 
 Holmes, Stephen. "What Russia Teaches Us Now: How Weak States Threaten Freedom." In *The Structure of Soviet History: Essays and Documents.* 2nd edition. Edited by Ronald Grigor Suny. Oxford University Press, 2013. ISBN: 9780195340549.
 
-McFaul, Michael. "[Yeltsin's Legacy](http://www.jstor.org/stable/40260037)." *The Wilson Quarterly* 24, no. 2 (2000): 42–47 and 50–58.
+McFaul, Michael. "{{% resource_link "683d45d9-9bf1-424d-bd98-019fc539a415" "Yeltsin's Legacy" %}}." *The Wilson Quarterly* 24, no. 2 (2000): 42–47 and 50–58.
 
 {{% resource_link "b42f3f22-7487-5d9d-cb60-8bc5f481298e" "The Yeltsin Years, 1991–1999 (PDF)" %}}
 
 ### Optional
 
-[Civil War in Moscow, October'93](https://web.archive.org/web/20071009085015/http://www.cs.toronto.edu/~mes/russia/period/october93.html), Computer Science, University of Toronto.
+{{% resource_link "d9720909-264a-44a4-85f9-0e13bf1a85f8" "Civil War in Moscow, October'93" %}}, Computer Science, University of Toronto.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -720,7 +720,7 @@ Politics in the Yeltsin Years – How Russia Really Works
 
 \[L\] "Conclusion."
 
-Ledeneva, Alena. ["Cronies, Economic Crime and Capitalism in Putin's *Sistema.*" (PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2346.2012.01062.x/pdf) *International Affairs* 88, no. 1 (2012): 149-57.
+Ledeneva, Alena. {{% resource_link "5aaeac3b-718c-42f9-bc72-b150baec3887" "\"Cronies, Economic Crime and Capitalism in Putin's *Sistema.*\" (PDF)" %}} *International Affairs* 88, no. 1 (2012): 149-57.
 
   ———. "Underground Financing in Russia." Chapter 4 in *Creating Social Trust in Post-Socialist Transition*. Edited by János Kornai, Bo Rothstein, and Susan Rose-Ackerman. Palgrave Macmillan, 2004. ISBN: 9781403964496.
 
@@ -734,29 +734,29 @@ Centralization Under Putin
 
 Gorenburg, Dmitry, with H. H. Gaffney. "Great Promise Unfulfilled: How Russia Lost Its Way after Independence," (PDF) PONARS Working Paper No. 26, February 2006.
 
-Maass, Peter. "[The Triumph of the Quiet Tycoon](http://www.nytimes.com/2004/08/01/magazine/the-triumph-of-the-quiet-tycoon.html)." *The New York Times Magazine*, August 1, 2004.
+Maass, Peter. "{{% resource_link "1dbccb1f-8874-4e03-8b9a-7a8ca4361578" "The Triumph of the Quiet Tycoon" %}}." *The New York Times Magazine*, August 1, 2004.
 
-Myers, Steven Lee, Jo Becker, et al. "[Private Bank Fuels Fortunes of Putin's Inner Circle](http://www.nytimes.com/2014/09/28/world/europe/it-pays-to-be-putins-friend-.html?_r=1)," *New York Times*, September 27, 2014.
+Myers, Steven Lee, Jo Becker, et al. "{{% resource_link "a37d1591-a097-479d-b513-68b5bfb456ba" "Private Bank Fuels Fortunes of Putin's Inner Circle" %}}," *New York Times*, September 27, 2014.
 
-Pomerantsev, Peter. "[Putin's Rasputin](http://www.lrb.co.uk/v33/n20/peter-pomerantsev/putins-rasputin)." *London Review of Books* 33, no. 20 (2011): 3–6.
+Pomerantsev, Peter. "{{% resource_link "04cb96b1-e3a6-4844-83c2-144cdffc834a" "Putin's Rasputin" %}}." *London Review of Books* 33, no. 20 (2011): 3–6.
 
-Specter, Michael. "[The Devastation](http://www.newyorker.com/magazine/2004/10/11/the-devastation)." *The New Yorker*, October 11, 2004. 
+Specter, Michael. "{{% resource_link "fc936d43-3b5d-42ba-8e27-423f896b3fc4" "The Devastation" %}}." *The New Yorker*, October 11, 2004. 
 
 ### Optional
 
-Gessen, Keith. "[The Orange and the Blue: A Letter from Ukraine](http://www.newyorker.com/magazine/2010/03/01/the-orange-and-the-blue)." *The New Yorker*, March 1, 2010.
+Gessen, Keith. "{{% resource_link "718a48d0-a8ca-4772-a70f-65bb0a9f724d" "The Orange and the Blue: A Letter from Ukraine" %}}." *The New Yorker*, March 1, 2010.
 
-Knight, Amy. "[The Truth about Putin and Medvedev](https://www.nybooks.com/articles/2008/05/15/the-truth-about-putin-and-medvedev/)." *New York Review of Books*, May 15, 2008.
+Knight, Amy. "{{% resource_link "9d06c461-80d9-475b-b879-01d2b9b25af5" "The Truth about Putin and Medvedev" %}}." *New York Review of Books*, May 15, 2008.
 
-Levy, Clifford J. "[Russia's Liberals Lose Their Voice](http://www.nytimes.com/2008/12/24/world/europe/24russia.html?_r=3)," *New York Times\_*,\_ December 23, 2008.
+Levy, Clifford J. "{{% resource_link "0aef6590-fe74-4527-8a91-98f1b4cc109a" "Russia's Liberals Lose Their Voice" %}}," *New York Times\_*,\_ December 23, 2008.
 
-McFaul, Michael, and Kathryn Stoner-Weiss. "[The Myth of the Authoritarian Model: How Putin's Crackdown Holds Russia Back](https://carnegieendowment.org/2008/01/01/myth-of-authoritarian-model-how-putin-s-crackdown-holds-russia-back-pub-19808)." *Foreign Affairs*, January / February 2008.
+McFaul, Michael, and Kathryn Stoner-Weiss. "{{% resource_link "59610f8c-2266-4315-8338-ad3d33e40e62" "The Myth of the Authoritarian Model: How Putin's Crackdown Holds Russia Back" %}}." *Foreign Affairs*, January / February 2008.
 
-Shevtsova, Lilia. "[Post-Communist Russia: A Historic Opportunity Missed](http://www.jstor.org/stable/4541860)." *International Affairs* 83, no. 5 (2007): 891–912.
+Shevtsova, Lilia. "{{% resource_link "c210373d-316d-48a9-800c-2e784c395562" "Post-Communist Russia: A Historic Opportunity Missed" %}}." *International Affairs* 83, no. 5 (2007): 891–912.
 
 Taylor, Brian D. "Bringing the Gun Back In: Coercion and the State." Chapter 1 in *State Building in Putin's Russia: Policing and Coercion after Communism*. Cambridge University Press, 2011, pp. 8–11 and 24–35. ISBN: 9780521760881.
 
-Trenin, Dmitri. "[The Legacy of Vladimir Putin](http://search.proquest.com/openview/c1fe0409462b07dce40afabb0c4d4eee/1?pq-origsite=gscholar)." *Current History* 106, no. 702 (2007): 346-48.
+Trenin, Dmitri. "{{% resource_link "3a444e60-d1e1-40cb-acfe-23f14cccfdf2" "The Legacy of Vladimir Putin" %}}." *Current History* 106, no. 702 (2007): 346-48.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -766,27 +766,27 @@ Medvedev, Anti-Putin Protests, and Putin 3.0
 
 ### Readings
 
-Baev, Pavel. "[Squabbles and Splits in Putin's Nomenklatura Mar His New Presidency](https://jamestown.org/program/squabbles-and-splits-in-putins-nomenklatura-mar-his-new-presidency/)." *Eurasia Daily Monitor* 9, no. 70 (2012).
+Baev, Pavel. "{{% resource_link "ed8f217c-fa58-4efe-8306-bade63bb8f29" "Squabbles and Splits in Putin's Nomenklatura Mar His New Presidency" %}}." *Eurasia Daily Monitor* 9, no. 70 (2012).
 
-Bershidsky, Leonid. "[Russian Security Chief Makes Putin Seem Tame](http://www.bloomberg.com/view/articles/2016-04-18/russian-security-chief-makes-putin-seem-tame)," April 18, 2016, BloombergView.
+Bershidsky, Leonid. "{{% resource_link "0006d48d-2abe-4383-b560-60e83f4cede5" "Russian Security Chief Makes Putin Seem Tame" %}}," April 18, 2016, BloombergView.
 
-Cohen, Stephen F. "[The New Cold War and the Necessity of Patriotic Heresy](https://web.archive.org/web/20121024141802/http://www.cs.toronto.edu/~mes/russia/period/october93.html)," *The Nation*, August 12, 2014.
+Cohen, Stephen F. "{{% resource_link "2c02894b-7aa9-43f2-b549-2858f6ba4755" "The New Cold War and the Necessity of Patriotic Heresy" %}}," *The Nation*, August 12, 2014.
 
-"[Frost at the Core: Dmitry Medvedev and Vladimir Putin are Presiding Over a System That Can No Longer Change](http://www.economist.com/node/17674075/URI)." *The Economist*, December 9, 2010.
+"{{% resource_link "508e49f1-52b7-4547-859b-d665f5f437ba" "Frost at the Core: Dmitry Medvedev and Vladimir Putin are Presiding Over a System That Can No Longer Change" %}}." *The Economist*, December 9, 2010.
 
-Knight, Amy. "[The Truth About Putin and Medvedev](http://www.nybooks.com/articles/2008/05/15/the-truth-about-putin-and-medvedev/)." *New York Review of Books*, May 15, 2008.
+Knight, Amy. "{{% resource_link "2629a290-ab92-46f2-a04e-411cebe22bef" "The Truth About Putin and Medvedev" %}}." *New York Review of Books*, May 15, 2008.
 
-Koesel, Karrie J., and Valerie J. Bunce. "[Putin, Popular Protests and Political Trajectories](http://www.tandfonline.com/doi/abs/10.2747/1060-586X.28.4.403)." *Post-Soviet Affairs* 28, no. 4 (2012): 403–23.
+Koesel, Karrie J., and Valerie J. Bunce. "{{% resource_link "7bb9a716-cbe9-4d9e-b906-86e07c787312" "Putin, Popular Protests and Political Trajectories" %}}." *Post-Soviet Affairs* 28, no. 4 (2012): 403–23.
 
-Levy, Clifford J. "[Russia's Liberals Lose Their Voice](http://www.nytimes.com/2008/12/24/world/europe/24russia.html?_r=3)," *New York Times*, December 23, 2008.
+Levy, Clifford J. "{{% resource_link "0aef6590-fe74-4527-8a91-98f1b4cc109a" "Russia's Liberals Lose Their Voice" %}}," *New York Times*, December 23, 2008.
 
-Ruthchild, Rochelle G. "[Virgin Mary, Become a Feminist!](http://www.wcwonline.org/Women-s-Review-Of-Books-Nov/Dec-2014/virgin-mary-become-a-feminist)" *Women's Review of Books*, December 2014.
+Ruthchild, Rochelle G. "{{% resource_link "cc7ffefa-95c5-469f-8dcb-92d610ca3b8e" "Virgin Mary, Become a Feminist!" %}}" *Women's Review of Books*, December 2014.
 
-Whitmore, Brian, and Robert Coalson. "[Putin Crashes Medvedev's Party](http://www.rferl.org/a/Putin_Crashes_Medvedevs_Party/1939426.html)," *Radio Free Europe / Radio Liberty*, January 25, 2010.
+Whitmore, Brian, and Robert Coalson. "{{% resource_link "37ae09fb-e3e6-47ae-89c4-74fc5fad74c0" "Putin Crashes Medvedev's Party" %}}," *Radio Free Europe / Radio Liberty*, January 25, 2010.
 
-Wood, Elizabeth A. "[Russia's Anti-Putin Protests are More Than Just a Generational Temper Tantrum](http://archive.boston.com/bostonglobe/editorial_opinion/blogs/the_angle/2012/01/putins_failures.html)," January 18, 2012, The Angle, boston.com.
+Wood, Elizabeth A. "{{% resource_link "9f3e883f-facc-48b1-9732-12b108d15a83" "Russia's Anti-Putin Protests are More Than Just a Generational Temper Tantrum" %}}," January 18, 2012, The Angle, boston.com.
 
-———. ["Who Leads Russia?" (PDF)](https://www.files.ethz.ch/isn/57181/Audit_06_08_Wood.pdf) Audit of the Conventional Wisdom, MIT Center for International Studies, June 2008.
+———. {{% resource_link "31ed0e7d-fb68-4405-afd8-06d710540f3e" "\"Who Leads Russia?\" (PDF)" %}} Audit of the Conventional Wisdom, MIT Center for International Studies, June 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
