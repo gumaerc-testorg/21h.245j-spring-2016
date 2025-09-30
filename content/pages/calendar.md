@@ -195,7 +195,7 @@ Why did War Communism end up in crisis? How were the NEP decrees intended to hea
 
 Soviet and Post-Soviet Ambivalence about National Identity
 
-Guest speaker: Dr. Mark Pomar, former Director, [Radio Free Europe / Radio Liberty](http://www.rferl.org/), Russian Service of the [Voice of America](http://www.voanews.com/), [the International Research & Exchanges Board](https://www.irex.org/), and [the U.S. Russia Foundation](http://www.usrf.us/).
+Guest speaker: Dr. Mark Pomar, former Director, {{% resource_link "d0d79d75-c211-4e8b-aed0-68b3e2b49cfe" "Radio Free Europe / Radio Liberty" %}}, Russian Service of the {{% resource_link "15d4d045-35f8-4e97-a36c-3e5fa8f186aa" "Voice of America" %}}, {{% resource_link "8ba2f632-2d9e-4e3c-b264-c140804817bf" "the International Research & Exchanges Board" %}}, and {{% resource_link "d791b53f-1da0-4af4-af70-aec96512a4ca" "the U.S. Russia Foundation" %}}.
 
 
 {{< tdclose >}}
@@ -213,7 +213,7 @@ Paper 1 revision due
 
 The Politics and Economics of the NEP Years
 
-Guest speaker: Rochelle Goldberg Ruthchild, [Norwich University](http://www.norwich.edu/).
+Guest speaker: Rochelle Goldberg Ruthchild, {{% resource_link "95b28e79-9092-4bab-83a9-01e64075a41c" "Norwich University" %}}.
 
 Ruthchild, Rochelle Goldberg. _Equality and Revolution: Women's Rights in the Russian Empire, 1905–1917_. University of Pittsburgh Press, 2010. ISBN: 9780822960669.
 
